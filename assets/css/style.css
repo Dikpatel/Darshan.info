@@ -251,20 +251,20 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 30px;
   }
 }
-/* @media (max-width: 860px){
+@media (max-width: 860px){
   #hero{
-    background: url("../img/Group-2.png");
-    background-position: center;
+    background: url("../img/Group-2.png") top center;
+    /* background-position: center; */
     background-size: cover;
   }
 }
 @media (max-width: 600px){
   #hero{
-    background: url("../img/Group-2.png");
+    background: url("../img/Group-2.png") top center;
     background-position: center;
     background-size: cover;
   }
-} */
+}
 
 /*--------------------------------------------------------------
 # Sections General
