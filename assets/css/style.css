@@ -674,6 +674,11 @@ section {
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
+#testimonials{
+  background: url('../img/test-bg.png');
+  background-position: center;
+  background-size: cover;
+}
 .testimonials .testimonials-carousel, .testimonials .testimonials-slider {
   overflow: hidden;
 }
