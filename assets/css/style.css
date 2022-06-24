@@ -300,7 +300,7 @@ section {
 # About
 --------------------------------------------------------------*/
 #about{
-background: url('/assets/img/test-bg.png');
+background: url('../img/test-bg.png');
 background-position: center;
 background-size: auto;
 }
@@ -335,7 +335,7 @@ background-size: auto;
 # Facts
 --------------------------------------------------------------*/
 #facts{
-  background: url('/assets/img/test-bg.png');
+background: url('../img/test-bg.png');
 background-position: center top ;
 background-size: auto;
 }
@@ -385,7 +385,7 @@ background-size: auto;
 # Akills
 --------------------------------------------------------------*/
 #skills{
-  background: url('/assets/img/test-bg.png');
+background: url('../img/test-bg.png');
 background-position: center;
 background-size: auto;
 }
@@ -423,7 +423,7 @@ background-size: auto;
 # Resume
 --------------------------------------------------------------*/
 #resume{
-  background: url('/assets/img/test-bg.png');
+  background: url('../img/test-bg.png');
   background-position: center;
   background-size: auto;
 }
@@ -641,7 +641,7 @@ background-size: auto;
 # Services
 --------------------------------------------------------------*/
 #services{
-  background: url('/assets/img/test-bg.png');
+  background: url('../img/test-bg.png');
 background-position: center;
 background-size: top;
 }
@@ -693,7 +693,7 @@ background-size: top;
 # Testimonials
 --------------------------------------------------------------*/
 #testimonials{
-background: url('/assets/img/test-bg.png');
+background: url('../img/test-bg.png');
 background-position: center;
 background-size: auto;
 }
@@ -776,7 +776,7 @@ background-size: auto;
 # Contact
 --------------------------------------------------------------*/
 #contact{
-  background: url('/assets/img/test-bg.png');
+background: url('../img/test-bg.png');
 background-position: center;
 background-size: auto;
 }
