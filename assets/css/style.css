@@ -1,13 +1,4 @@
-/**
-* Template Name: iPortfolio - v3.7.0
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
@@ -256,6 +247,7 @@ h1, h2, h3, h4, h5, h6 {
     background: url("../img/Group-2.png");
     background-position: center;
     background-size: cover;
+    /* background: none; */
   }
 }
 @media (max-width: 600px){
@@ -263,6 +255,7 @@ h1, h2, h3, h4, h5, h6 {
     background: url("../img/Group-2.png");
     background-position: center;
     background-size: cover;
+    /* background: none; */
   }
 }
 
@@ -306,6 +299,11 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+#about{
+  background: url('/assets/img/test-bg.png');
+background-position: center;
+background-size: auto;
+}
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
@@ -336,6 +334,11 @@ section {
 /*--------------------------------------------------------------
 # Facts
 --------------------------------------------------------------*/
+#facts{
+  background: url('/assets/img/test-bg.png');
+background-position: center top ;
+background-size: auto;
+}
 .facts {
   padding-bottom: 30px;
 }
@@ -381,6 +384,11 @@ section {
 /*--------------------------------------------------------------
 # Akills
 --------------------------------------------------------------*/
+#skills{
+  background: url('/assets/img/test-bg.png');
+background-position: center;
+background-size: auto;
+}
 .skills .progress {
   height: 60px;
   display: block;
@@ -414,6 +422,11 @@ section {
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
+#resume{
+  background: url('/assets/img/test-bg.png');
+  background-position: center;
+  background-size: auto;
+}
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
@@ -627,6 +640,11 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+#services{
+  background: url('/assets/img/test-bg.png');
+background-position: center;
+background-size: top;
+}
 .services .icon-box {
   margin-bottom: 20px;
 }
@@ -674,11 +692,11 @@ section {
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
-/* #testimonials{
-  background: url('../img/test-bg.png');
-  background-position: center;
-  background-size: cover;
-} */
+#testimonials{
+background: url('/assets/img/test-bg.png');
+background-position: center;
+background-size: auto;
+}
 .testimonials .testimonials-carousel, .testimonials .testimonials-slider {
   overflow: hidden;
 }
@@ -689,7 +707,7 @@ section {
 }
 .testimonials .testimonial-item .testimonial-img {
   width: 90px;
-  border-radius: 20%;
+  border-radius: 50%;
   margin: 0 auto;
 }
 .testimonials .testimonial-item h3 {
@@ -757,6 +775,11 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+#contact{
+  background: url('/assets/img/test-bg.png');
+background-position: center;
+background-size: auto;
+}
 .contact {
   padding-bottom: 130px;
 }
