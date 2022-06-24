@@ -707,7 +707,7 @@ background-size: auto;
 }
 .testimonials .testimonial-item .testimonial-img {
   width: 90px;
-  border-radius: 50%;
+  border-radius: 20%;
   margin: 0 auto;
 }
 .testimonials .testimonial-item h3 {
