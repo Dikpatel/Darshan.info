@@ -334,11 +334,11 @@ background-size: auto;
 /*--------------------------------------------------------------
 # Facts
 --------------------------------------------------------------*/
-#facts{
+/* #facts{
 background: url('../img/test-bg.png');
 background-position: center top ;
 background-size: auto;
-}
+} */
 .facts {
   padding-bottom: 30px;
 }
@@ -384,11 +384,11 @@ background-size: auto;
 /*--------------------------------------------------------------
 # Akills
 --------------------------------------------------------------*/
-#skills{
+/* #skills{
 background: url('../img/test-bg.png');
 background-position: center;
 background-size: auto;
-}
+} */
 .skills .progress {
   height: 60px;
   display: block;
@@ -640,11 +640,11 @@ background-size: auto;
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
-#services{
+/* #services{
   background: url('../img/test-bg.png');
 background-position: center;
 background-size: top;
-}
+} */
 .services .icon-box {
   margin-bottom: 20px;
 }
@@ -775,11 +775,11 @@ background-size: auto;
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
-#contact{
+/* #contact{
 background: url('../img/test-bg.png');
 background-position: center;
 background-size: auto;
-}
+} */
 .contact {
   padding-bottom: 130px;
 }
