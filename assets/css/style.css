@@ -1003,7 +1003,7 @@ background-size: auto;
   text-align: center;
   font-size: 13px;
   color: #eaebf0;
-  padding: 1px 35px;
+  padding: 1px 10px;
 }
 @media (max-width: 1199px) {
   #footer {
