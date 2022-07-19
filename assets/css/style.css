@@ -520,6 +520,7 @@ background-size: auto;
   text-transform: uppercase;
   color: #272829;
   margin-bottom: 5px;
+  margin-top: 5px;
   transition: all 0.3s ease-in-out;
 }
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
