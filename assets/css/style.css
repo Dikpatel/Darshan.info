@@ -523,7 +523,9 @@ background-size: auto;
   transition: all 0.3s ease-in-out;
 }
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #149ddd;
+    color: #ffffff;
+    background: #149ddd;
+    border-radius: 10px;
 }
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
