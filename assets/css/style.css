@@ -927,6 +927,9 @@ background-size: auto;
 .contact .php-email-form button[type=submit]:hover {
   background: #37b3ed;
 }
+.form-group span{
+  color:red;
+}
 @-webkit-keyframes animate-loading {
   0% {
     transform: rotate(0deg);
